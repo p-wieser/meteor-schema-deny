@@ -1,4 +1,4 @@
-// collection2 checks to make sure that simpl-schema package is added
+// collection2 checks to make sure that meteor/aldeed:simple-schema package is added
 import 'meteor/aldeed:collection2/dynamic';
 import SimpleSchema from 'meteor/aldeed:simple-schema';
 

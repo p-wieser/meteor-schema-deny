@@ -1,5 +1,10 @@
 # Change Log
 
+## 4.0.3
+
+Updated to depend on `aldeed:collection2@5.0.0`
+Updated to depend on `aldeed:simple-schema@3.0.0`
+
 ## 4.0.2
 
 Updated to depend on `aldeed:simple-schema@2.0.0`

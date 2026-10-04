@@ -8,8 +8,8 @@ Package.describe({
 
 Package.onUse(function(api) {
   api.versionsFrom(['2.8.1', '3.0-rc.0']);
-  api.use('aldeed:collection2@4.0.1');
-  api.use('aldeed:simple-schema@1.13.1 || 2.0.0');
+  api.use('aldeed:collection2@4.0.1 || 5.0.0');
+  api.use('aldeed:simple-schema@1.13.1 || 2.0.0 || 3.0.0');
   api.use('ecmascript');
 
   api.mainModule('package/deny/deny.js');
